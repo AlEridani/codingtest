@@ -8,7 +8,7 @@ public class test11 {
 		int x = -10000;
 		int n = 1000;
 		System.out.println(solution(x,n));
-		
+		//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
 	}
 	
 	  public static ArrayList<Long> solution(int x, int n) {
